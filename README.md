@@ -23,6 +23,7 @@
 - Virtualization of network devices and services
 - Networking technologies and protocols skills
 
+---
 
 <div align="center">
   <img src="https://github.com/PowerCell46/Computer-Networking/blob/main/Computer%20Networking%20Fundamentals%20-%20October%202022%20-%20Peter%20Gerdzhikov%20Certificate.jpeg" alt="Computer-Networking-Fund-Oct-2022">
